@@ -48,7 +48,7 @@ function ensurePanel() {
   }});
 
   header = el("div", { style: { padding: "12px", background: "#f8f9fa", borderBottom: "1px solid #ddd", display: "flex", justifyContent: "space-between", alignItems: "center", cursor: "move" }}, [
-    el("span", { style: { fontWeight: "bold", color: "#333" }}, ["Layer Config v13"]),
+    el("span", { style: { fontWeight: "bold", color: "#333" }}, ["عصام الكهربائي 0501618112Layer Config v13"]),
     el("div", { style: { display: "flex", gap: "5px" }}, [
       btn("—", toggleCollapse),
       btn("✕", hide, "#ffebeb", "1px solid #ffcccc")
